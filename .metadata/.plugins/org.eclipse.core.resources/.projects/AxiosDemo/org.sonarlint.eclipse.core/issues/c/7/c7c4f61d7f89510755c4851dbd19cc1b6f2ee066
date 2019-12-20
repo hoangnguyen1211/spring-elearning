@@ -1,0 +1,7 @@
+
+hsquid:S3655#"7Call "Optional#isPresent()" before accessing the value.(éÖñ¢üÿÿÿÿ8Ÿ©¨ßñ-HRMAJORZBUG
+~squid:S46846"@Replace this persistent entity with a simple POJO or DTO object.(Ó˜µ¨þÿÿÿÿ8ž…Áßñ-HRCRITICALZVULNERABILITY
+ysquid:S4684("@Replace this persistent entity with a simple POJO or DTO object.(ƒÒÛÏ8–¥»ßñ-HRCRITICALZVULNERABILITY
+^squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–¥»ßñ-HRMINORZVULNERABILITY
+^squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ž…Áßñ-HRMINORZVULNERABILITY
+^squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¯ëÊßñ-HRMINORZVULNERABILITY
